@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>941153091525-9t01st3jmrfi0nhg4ph7v1lgcv12qvjl.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.941153091525-9t01st3jmrfi0nhg4ph7v1lgcv12qvjl</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAOXJ-ShPdFI3e4xT1j_X8NPDIUy3WxNLA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>941153091525</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>co.tashvi.GreenOvation</string>
+	<key>PROJECT_ID</key>
+	<string>greenovation-3fce1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>greenovation-3fce1.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:941153091525:ios:f3e164544caf9c805e55ac</string>
+</dict>
+</plist>

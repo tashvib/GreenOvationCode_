@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>706586586590-d73jilv9qb0nh2bmeij0js2f01jp7s77.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.706586586590-d73jilv9qb0nh2bmeij0js2f01jp7s77</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCf2KHpOzkzMHpSIuq8v9Qf9FgYR7D6AP8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>706586586590</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>co.tashvi.GreenOvation</string>
+	<key>PROJECT_ID</key>
+	<string>volunteeropportunities-5bec5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>volunteeropportunities-5bec5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:706586586590:ios:9b40d52f594c6e1e16814f</string>
+</dict>
+</plist>
